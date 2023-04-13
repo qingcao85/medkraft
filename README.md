@@ -12,7 +12,7 @@
 
         
 
-## "Pleural effusion with rib fractures in infant"
+## 2. "Pleural effusion with rib fractures in infant"
 2.1.1: author: Taniguchi et al.
 2.1.2: publication journal: Clinical Case Reports
 2.1.3: year of publication: 2018

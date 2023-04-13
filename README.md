@@ -1,6 +1,6 @@
 # medkraft
 
-## 1. "Epidural analgesia in patients with traumatic rib fractures - a systematic review of randomised controlled trials"
+## 1. research paper "Epidural analgesia in patients with traumatic rib fractures - a systematic review of randomised controlled trials", following 1.1.1 - 1.3.3 belong to this research paper:
 1.1.1: author: Yang et al.
 1.1.2: publication journal: Journal of Clinical Nursing
 1.1.3: year of publication: 2020
@@ -12,7 +12,7 @@
 
         
 
-## 2. "Pleural effusion with rib fractures in infant"
+## 2. research paper "Pleural effusion with rib fractures in infant", following 2.1.1 - 2.3.3 belong to this research paper:
 2.1.1: author: Taniguchi et al.
 2.1.2: publication journal: Clinical Case Reports
 2.1.3: year of publication: 2018
